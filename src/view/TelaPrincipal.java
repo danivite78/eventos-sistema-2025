@@ -83,7 +83,7 @@ public class TelaPrincipal extends JFrame {
         JPanel footerPanel = new JPanel();
         footerPanel.setBackground(new Color(236, 240, 241));
         footerPanel.setPreferredSize(new Dimension(800, 40));
-        JLabel footerLabel = new JLabel("Sistema de Eventos   2025 - v1.0");
+        JLabel footerLabel = new JLabel("Sistema de Eventos   2025 - v1.1");
         footerLabel.setForeground(new Color(52, 73, 94));
         footerPanel.add(footerLabel);
         
